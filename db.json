@@ -221,6 +221,9 @@
       "customerId": 1,
       "order_number": "00000000001",
       "totalsum": 14000,
+      "country": "United States",
+      "address": "freedom street 1",
+      "name": "Bruce Wayne",
       "products": [
         {
           "productId": "1",
@@ -241,6 +244,9 @@
       "customerId": 5,
       "order_number": "00000000002",
       "totalsum": 2500,
+      "country": "Canada",
+      "address": "Ottowa leaf 22",
+      "name": "Jordan Peterson",
       "products": [
         {
           "productId": "1",
@@ -255,6 +261,9 @@
       "customerId": 8,
       "order_number": "00000000003",
       "totalsum": 9999,
+      "country": "Mexico",
+      "address": "Mexico city road 420",
+      "name": "Pablo Escobar",
       "products": [
         {
           "productId": "3",
@@ -269,6 +278,9 @@
       "customerId": 3,
       "order_number": "00000000004",
       "totalsum": 75000,
+      "country": "Egypt",
+      "address": "Cairo road 456",
+      "name": "Mohamed Salah",
       "products": [
         {
           "productId": "6",
@@ -289,6 +301,9 @@
       "customerId": 4,
       "order_number": "00000000005",
       "totalsum": 11000,
+      "country": "Italy",
+      "address": "Rome road 123",
+      "name": "Leonardo",
       "products": [
         {
           "productId": "3",
