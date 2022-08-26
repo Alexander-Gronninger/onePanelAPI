@@ -11,10 +11,13 @@
       "specs": "W: 30.5cm L: 30.5cm H: 30.5cm",
       "sizes": "",
       "images": [
-        "ajkbfdksf3.png",
-        "ajkbfdksf.png",
-        "ajkbfdksf2.png",
-        "ajkbfdksf4.png"
+        "D80A5494_1__45894.jpg",
+        "D80A5835_1__60471.jpg",
+        "FreeflyPud__26191.jpg",
+        "micron__85275.jpg",
+        "V3Main2__07214.jpg",
+        "vector__76232.webp",
+        "vector-site__20578.webp"
       ]
     },
     {
@@ -28,10 +31,11 @@
       "specs": "W: 28.5cm L: 21.5cm H: 40.5cm",
       "sizes": "",
       "images": [
-        "ajkbfdksf3.png",
-        "ajkbfdksf.png",
-        "ajkbfdksf2.png",
-        "ajkbfdksf4.png"
+        "SE-Vector__49368.webp",
+        "SECutaway.jpg",
+        "SEDhandle.jpg",
+        "SEOptAAD.jpg",
+        "SEReservewindow.jpg"
       ]
     },
     {
@@ -45,10 +49,11 @@
       "specs": "W: 40.5cm L: 50.5cm H: 60.5cm",
       "sizes": "",
       "images": [
-        "ajkbfdksf3.png",
-        "ajkbfdksf.png",
-        "ajkbfdksf2.png",
-        "ajkbfdksf4.png"
+        "sigma-1__00631.jpg",
+        "sigma-back__77297.jpg",
+        "sigma-front__48679.jpg",
+        "SigmaAdjustable__02750.jpg",
+        "SigmaHandles__27241.jpg"
       ]
     },
     {
@@ -62,10 +67,8 @@
       "specs": "W: 30.2cm L: 31.4cm H: 33.7cm",
       "sizes": "",
       "images": [
-        "ajkbfdksf3.png",
-        "ajkbfdksf.png",
-        "ajkbfdksf2.png",
-        "ajkbfdksf4.png"
+        "sigma-main__75694.jpg",
+        "sigma-main-canopies-sigma__07911.jpg"
       ]
     },
     {
@@ -78,12 +81,7 @@
       "discount": "0",
       "specs": "W: 32.5cm L: 31.5cm H: 30.5cm",
       "sizes": "",
-      "images": [
-        "ajkbfdksf3.png",
-        "ajkbfdksf.png",
-        "ajkbfdksf2.png",
-        "ajkbfdksf4.png"
-      ]
+      "images": ["Valk-pd-site__06902.jpg", "Valkyrie-pd-site1__06368.jpg"]
     },
     {
       "id": 6,
@@ -95,12 +93,7 @@
       "discount": "0",
       "specs": "W: 36.9cm L: 36.9cm H: 36.9cm",
       "sizes": "",
-      "images": [
-        "ajkbfdksf3.png",
-        "ajkbfdksf.png",
-        "ajkbfdksf2.png",
-        "ajkbfdksf4.png"
-      ]
+      "images": ["icarusreserve__48589.jpg", "sigma-reserve__83371.webp"]
     }
   ],
   "customers": [
