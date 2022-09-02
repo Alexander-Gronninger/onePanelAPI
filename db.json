@@ -143,7 +143,10 @@
           "size": "XXL"
         }
       ],
-      "images": ["Valk-pd-site__06902.jpg", "Valkyrie-pd-site1__06368.jpg"]
+      "images": [
+        "Valk-pd-site__06902.jpg",
+        "Valkyrie-pd-site1__06368.jpg"
+      ]
     },
     {
       "id": 6,
@@ -162,7 +165,21 @@
           "size": "XXL"
         }
       ],
-      "images": ["icarusreserve__48589.jpg", "sigma-reserve__83371.webp"]
+      "images": [
+        "icarusreserve__48589.jpg",
+        "sigma-reserve__83371.webp"
+      ]
+    },
+    {
+      "name": "test product",
+      "price": "6969",
+      "discount": "0",
+      "description": "lolololololol",
+      "stock": "stock",
+      "specs": "specs",
+      "images": [],
+      "createdAt": 1662118762298,
+      "id": 7
     }
   ],
   "customers": [
