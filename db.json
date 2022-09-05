@@ -169,17 +169,6 @@
         "icarusreserve__48589.jpg",
         "sigma-reserve__83371.webp"
       ]
-    },
-    {
-      "name": "test product",
-      "price": "6969",
-      "discount": "0",
-      "description": "lolololololol",
-      "stock": "stock",
-      "specs": "specs",
-      "images": [],
-      "createdAt": 1662118762298,
-      "id": 7
     }
   ],
   "customers": [
